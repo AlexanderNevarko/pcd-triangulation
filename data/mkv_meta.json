@@ -1,0 +1,224 @@
+{
+    "bone_list": [
+        [
+            "SPINE_CHEST",
+            "SPINE_NAVEL"
+        ],
+        [
+            "SPINE_NAVEL",
+            "PELVIS"
+        ],
+        [
+            "SPINE_CHEST",
+            "NECK"
+        ],
+        [
+            "NECK",
+            "HEAD"
+        ],
+        [
+            "HEAD",
+            "NOSE"
+        ],
+        [
+            "SPINE_CHEST",
+            "CLAVICLE_LEFT"
+        ],
+        [
+            "CLAVICLE_LEFT",
+            "SHOULDER_LEFT"
+        ],
+        [
+            "SHOULDER_LEFT",
+            "ELBOW_LEFT"
+        ],
+        [
+            "ELBOW_LEFT",
+            "WRIST_LEFT"
+        ],
+        [
+            "WRIST_LEFT",
+            "HAND_LEFT"
+        ],
+        [
+            "HAND_LEFT",
+            "HANDTIP_LEFT"
+        ],
+        [
+            "WRIST_LEFT",
+            "THUMB_LEFT"
+        ],
+        [
+            "PELVIS",
+            "HIP_LEFT"
+        ],
+        [
+            "HIP_LEFT",
+            "KNEE_LEFT"
+        ],
+        [
+            "KNEE_LEFT",
+            "ANKLE_LEFT"
+        ],
+        [
+            "ANKLE_LEFT",
+            "FOOT_LEFT"
+        ],
+        [
+            "NOSE",
+            "EYE_LEFT"
+        ],
+        [
+            "EYE_LEFT",
+            "EAR_LEFT"
+        ],
+        [
+            "SPINE_CHEST",
+            "CLAVICLE_RIGHT"
+        ],
+        [
+            "CLAVICLE_RIGHT",
+            "SHOULDER_RIGHT"
+        ],
+        [
+            "SHOULDER_RIGHT",
+            "ELBOW_RIGHT"
+        ],
+        [
+            "ELBOW_RIGHT",
+            "WRIST_RIGHT"
+        ],
+        [
+            "WRIST_RIGHT",
+            "HAND_RIGHT"
+        ],
+        [
+            "HAND_RIGHT",
+            "HANDTIP_RIGHT"
+        ],
+        [
+            "WRIST_RIGHT",
+            "THUMB_RIGHT"
+        ],
+        [
+            "PELVIS",
+            "HIP_RIGHT"
+        ],
+        [
+            "HIP_RIGHT",
+            "KNEE_RIGHT"
+        ],
+        [
+            "KNEE_RIGHT",
+            "ANKLE_RIGHT"
+        ],
+        [
+            "ANKLE_RIGHT",
+            "FOOT_RIGHT"
+        ],
+        [
+            "NOSE",
+            "EYE_RIGHT"
+        ],
+        [
+            "EYE_RIGHT",
+            "EAR_RIGHT"
+        ]
+    ],
+    "color_resolution": {
+        "h": 1536,
+        "w": 2048
+    },
+    "depth_intrinsics": {
+        "cx": 338.0733642578125,
+        "cy": 338.06817626953125,
+        "fx": 505.05084228515625,
+        "fy": 504.9956359863281,
+        "k1": 5.325788497924805,
+        "k2": 3.2844455242156982,
+        "k3": 0.1552966833114624,
+        "k4": 5.6506853103637695,
+        "k5": 5.049447536468506,
+        "k6": 0.858729898929596,
+        "p1": -2.5223982902389253e-06,
+        "p2": -8.48980707814917e-05
+    },
+    "depth_resolution": {
+        "h": 576,
+        "w": 640
+    },
+    "depth_to_rgb": {
+        "r": [
+            -0.10038138180971146,
+            -0.0006439610733650625,
+            0.002789221005514264
+        ],
+        "t": [
+            -32.07257080078125,
+            -2.081580400466919,
+            4.10262393951416
+        ]
+    },
+    "depth_undistorted_intrinsics": {
+        "fx": 430.94134521484375,
+        "fy": 441.03570556640625,
+        "px": 345.10784912109375,
+        "py": 351.9667053222656
+    },
+    "joint_names": [
+        "PELVIS",
+        "SPINE_NAVEL",
+        "SPINE_CHEST",
+        "NECK",
+        "CLAVICLE_LEFT",
+        "SHOULDER_LEFT",
+        "ELBOW_LEFT",
+        "WRIST_LEFT",
+        "HAND_LEFT",
+        "HANDTIP_LEFT",
+        "THUMB_LEFT",
+        "CLAVICLE_RIGHT",
+        "SHOULDER_RIGHT",
+        "ELBOW_RIGHT",
+        "WRIST_RIGHT",
+        "HAND_RIGHT",
+        "HANDTIP_RIGHT",
+        "THUMB_RIGHT",
+        "HIP_LEFT",
+        "KNEE_LEFT",
+        "ANKLE_LEFT",
+        "FOOT_LEFT",
+        "HIP_RIGHT",
+        "KNEE_RIGHT",
+        "ANKLE_RIGHT",
+        "FOOT_RIGHT",
+        "HEAD",
+        "NOSE",
+        "EYE_LEFT",
+        "EAR_LEFT",
+        "EYE_RIGHT",
+        "EAR_RIGHT"
+    ],
+    "k4abt_sdk_version": "1.0.0",
+    "rgb_intrinsics": {
+        "cx": 1021.7091674804688,
+        "cy": 777.2576904296875,
+        "fx": 959.4071655273438,
+        "fy": 958.7230224609375,
+        "k1": 0.8638631701469421,
+        "k2": -3.0390236377716064,
+        "k3": 1.6783568859100342,
+        "k4": 0.7365744709968567,
+        "k5": -2.868086338043213,
+        "k6": 1.6097285747528076,
+        "p1": 0.0004777683352585882,
+        "p2": -4.277556854503928e-06
+    },
+    "rgb_undistorted_intrinsics": {
+        "cx": 1021.7091674804688,
+        "cy": 777.2576904296875,
+        "fx": 959.4071655273438,
+        "fy": 959.4071655273438
+    },
+    "source_file": "/mnt/hdd10/green-screen-dataset-kinect/videos/10/000583592412/capture.mkv"
+}
